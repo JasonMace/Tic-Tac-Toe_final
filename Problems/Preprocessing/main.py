@@ -1,0 +1,5 @@
+sentence = input()
+sentence = sentence.strip(',.!?')
+sentence = sentence.lower()
+sentence = sentence.replace("!", "")
+print(sentence)

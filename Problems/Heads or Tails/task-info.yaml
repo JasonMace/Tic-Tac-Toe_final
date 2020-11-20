@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # Fingers crossed
+    check =  # are there any heads in the list heads_or_tails?
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7808#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7808#comment">JetBrains
+    Academy</a></html>
+  time: Mon, 16 Nov 2020 21:48:27 UTC
+record: -1

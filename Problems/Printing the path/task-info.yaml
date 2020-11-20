@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: path = 'C:\Users\Public\Desktop\Temporary\Newsletters'.lower()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11137#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/11137#comment">JetBrains
+    Academy</a></html>
+  time: Sat, 14 Nov 2020 14:26:00 UTC
+record: -1

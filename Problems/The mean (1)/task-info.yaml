@@ -1,0 +1,13 @@
+type: code
+custom_name: The mean
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9148#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9148#comment">JetBrains
+    Academy</a></html>
+  time: Mon, 16 Nov 2020 19:35:34 UTC
+record: -1

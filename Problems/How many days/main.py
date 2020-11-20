@@ -1,0 +1,6 @@
+seconds = [86400, 1028397, 8372891, 219983, 865779330, 3276993204380912]
+# create a list of days here
+
+daysec = 3600 * 24
+daylist = [int(num / daysec) for num in seconds]
+print(daylist)
